@@ -72,13 +72,13 @@ Este script bash foi criado para automatizar o processo de instalação das prin
 1. Clone este repositório em seu computador:
 
     ```bash
-    git clone https://github.com/aabdalaa/Instalacoes-linux.git
+    git clone https://github.com/aabdalaa/projeto-linux-DIO.git
     ```
 
 2. Navegue até o diretório do repositório:
 
     ```bash
-    cd Instalacoes-linux
+    cd projeto-linux-DIO
     ```
 
 3. Dê permissão de execução ao script:
